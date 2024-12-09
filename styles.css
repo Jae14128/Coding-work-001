@@ -1,0 +1,67 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: azure;
+}
+
+h1{
+    color: green;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+h3{
+    margin-top: 5px;
+    margin-bottom: 20px;
+  
+    
+}
+
+.type1{
+    font-style: italic;
+}
+
+.plant1{
+ display: flex;
+    width: 400px;
+    height:400px;
+    margin-top: 20px;
+}
+
+
+
+.type2{
+    font-style: italic;
+}
+
+.plant2{
+    display: flex;
+    width: 300px;
+    height: 300px;
+margin-top: 30px;
+}
+
+.type3{
+    font-style: italic;
+}
+
+.plant3{
+    display: flex;
+    width: 450px;
+    height: 250px;
+    margin-top: 30px;
+}
+
+.description3{
+    margin-bottom: 80px;
+}
+
+.contactinfo{
+    text-align: center;
+font-style: italic;
+}
